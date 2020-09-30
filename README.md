@@ -15,7 +15,7 @@ Atuo na comunidade tech como participante e organizadora de algumas comunidades 
  🌟 [AI Inclusive](https://www.instagram.com/ai_inclusive/)  
  🌟 [DevAI Women](https://www.youtube.com/channel/UCGhSrtP0-1qq0XPbnMpi2kQ)  
 
-## Me Acompanhe:
+## Mídias Sociais:
 
  🎲 [LinkedIn](https://www.linkedin.com/in/beatrizmaiads/)   
  🎲 [Medium](https://medium.com/@beatrizmaiads)  
