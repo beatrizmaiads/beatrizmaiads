@@ -1,7 +1,7 @@
 ## Beatriz Maia - @beatrizmaiads
 -------------------------
 
-![image](/icon/icon-github.png)  
+![image](/icon/icon-readme.png)  
 
 
 Hey! Meu nome é Beatriz, mas pode me chamar de Bia/Bea/Be 👩‍💻🖖 
@@ -11,9 +11,9 @@ Desenvolvo hoje projetos ligados área de Data Science, especialmente projetos d
 
 Atuo na comunidade tech como participante e organizadora de algumas comunidades e eventos que visam encorajar e apoiar mulheres a entrar nessa área. Algumas comunidades que participo:
 
-🌟 [Start Coding](https://www.instagram.com/_startcoding/)  
-🌟 [AI Inclusive](https://www.instagram.com/ai_inclusive/)  
-🌟 [DevAI Women](https://www.youtube.com/channel/UCGhSrtP0-1qq0XPbnMpi2kQ)  
+ 🌟 [Start Coding](https://www.instagram.com/_startcoding/)  
+ 🌟 [AI Inclusive](https://www.instagram.com/ai_inclusive/)  
+ 🌟 [DevAI Women](https://www.youtube.com/channel/UCGhSrtP0-1qq0XPbnMpi2kQ)  
 -------------------------
  🎲 [LinkedIn](https://www.linkedin.com/in/beatrizmaiads/)   
  🎲 [Medium](https://medium.com/@beatrizmaiads)  
