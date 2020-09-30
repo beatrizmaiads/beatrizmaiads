@@ -14,7 +14,9 @@ Atuo na comunidade tech como participante e organizadora de algumas comunidades 
  🌟 [Start Coding](https://www.instagram.com/_startcoding/)  
  🌟 [AI Inclusive](https://www.instagram.com/ai_inclusive/)  
  🌟 [DevAI Women](https://www.youtube.com/channel/UCGhSrtP0-1qq0XPbnMpi2kQ)  
--------------------------
+
+## Me Acompanhe:
+
  🎲 [LinkedIn](https://www.linkedin.com/in/beatrizmaiads/)   
  🎲 [Medium](https://medium.com/@beatrizmaiads)  
  🎲 [Dev.to](https://dev.to/beatrizmaiads)  
