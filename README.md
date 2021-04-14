@@ -27,8 +27,8 @@ Aqui você pode encontrar alguns eventos que já participei como host e/ou pales
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmaiads&hide=html&layout=compact&theme=shades-of-purple" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=beatrizmaiads&theme=shades-of-purple"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmaiads&hide=html&layout=compact&theme=nightowl" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=beatrizmaiads&theme=nightowl"/></td>
     </tr>   
 </table>
 </center> 
