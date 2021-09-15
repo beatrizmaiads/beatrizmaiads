@@ -1,7 +1,7 @@
 ## Beatriz Maia - @beatrizmaiads
 -------------------------
 
-![image](/icon/icon-readme.png)  
+<!-- ![image](/icon/icon-readme.png)   -->
 
 Hey! Meu nome é Beatriz, mas pode me chamar de Bia 👩‍💻🖖
 
