@@ -19,9 +19,12 @@ Vamos conectar e explorar maneiras de impulsionar a eficiência e a eficácia po
 #DataAnalysis #DataViz #DataScience #ComunicaçãoDeDados
 
 ### 👩🏼‍💻**Onde me encontrar**:
+ 🎲 [Conteúdos criados por mim](https://github.com/beatrizmaiads/contents-created-by-me)
 
- 🎲 [LinkedIn](https://www.linkedin.com/in/beatrizmaiads/)   
+ 🎲 [LinkedIn](https://www.linkedin.com/in/beatrizmaiads/)  
+
  🎲 [Medium](https://medium.com/@beatrizmaiads)  
+
  🎲 [Instagram - AI Inclusive](https://www.instagram.com/ai_inclusive/)
  
  
