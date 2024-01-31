@@ -3,21 +3,25 @@
 
 <!-- ![image](/icon/icon-readme.png)   -->
 
-Hey! Meu nome é Beatriz, mas pode me chamar de Bia 👩‍💻🖖
+📊 Analista de Dados | Especialista em Comunicação através dos Números 📈
 
-Sou graduanda em Ciência da Computação, apaixonada por Inteligência Artificial e por tudo que pode trazer impacto positivo para a sociedade por meio da tecnologia.
+Olá! Sou a Bia! 
+Uma Analista de Dados apaixonada por transformar números em histórias significativas. Minha principal característica é a habilidade de comunicar de forma eficaz usando dados.
 
-Como Analista de Dados, participo do processo de ETL, auxilio na manutenção da base de dados e (uma das minhas paixões) da construção de Dashboards. Transformando assim, os dados em informações utéis para a tomada de decisão.
+Entendo a importância não apenas de ter dados bem modelados, mas também de apresentá-los em visualizações e gráficos que transmitam claramente a mensagem aos times e à empresa.
 
-Atuo na comunidade tech como participante e organizadora de algumas comunidades e eventos que visam encorajar e apoiar mulheres a entrar nessa área.
+Por onde passo, tenho o compromisso de compartilhar meu conhecimento em dados para aprimorar os processos de trabalho e otimizá-los. Trabalhei em projetos de análise de dados em diversas áreas, incluindo indústria da música, recursos humanos, atendimento ao cliente, sucesso do cliente, produtos, financeiro, estratégia e planejamento.
 
-Aqui você pode encontrar os conteúdos produzidos por mim, assim como os eventos que já participei: https://github.com/beatrizmaiads/contents-created-by-me
+Estou sempre em busca de novos desafios que me permitam adquirir novas perspectivas e aprimorar minhas técnicas e habilidades sociais no ambiente de trabalho.
+
+Vamos conectar e explorar maneiras de impulsionar a eficiência e a eficácia por meio da análise de dados! 🚀🎲🔍
+
+#DataAnalysis #DataViz #DataScience #ComunicaçãoDeDados
 
 ### 👩🏼‍💻**Onde me encontrar**:
 
  🎲 [LinkedIn](https://www.linkedin.com/in/beatrizmaiads/)   
  🎲 [Medium](https://medium.com/@beatrizmaiads)  
- 🎲 [Dev.to](https://dev.to/beatrizmaiads)  
  🎲 [Instagram - AI Inclusive](https://www.instagram.com/ai_inclusive/)
  
  
