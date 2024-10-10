@@ -3,7 +3,7 @@
 
 <!-- ![image](/icon/icon-readme.png)   -->
 
-📊 Analista de dados & Contadora de histórias(com dados!) 📈
+Analista de dados & Contadora de histórias (com dados!) 📊
 
 Sou Analista de Dados e atuo basendo minhas análises na estatística para garantir qualidade, método e confiabilidade nos insights que compartilho.
 Adoro contar histórias (através de dados!) e sou uma defensora das boas práticas de visualização de dados.
