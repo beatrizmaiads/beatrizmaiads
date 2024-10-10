@@ -3,20 +3,25 @@
 
 <!-- ![image](/icon/icon-readme.png)   -->
 
-📊 Analista de Dados | Especialista em Comunicação através dos Números 📈
+📊 Analista de dados & Contadora de histórias(com dados!) 📈
 
-Olá! Sou a Bia! 
-Uma Analista de Dados apaixonada por transformar números em histórias significativas. Minha principal característica é a habilidade de comunicar de forma eficaz usando dados.
+Sou Analista de Dados e atuo basendo minhas análises na estatística para garantir qualidade, método e confiabilidade nos insights que compartilho.
+Adoro contar histórias (através de dados!) e sou uma defensora das boas práticas de visualização de dados.
 
-Entendo a importância não apenas de ter dados bem modelados, mas também de apresentá-los em visualizações e gráficos que transmitam claramente a mensagem aos times e à empresa.
+Meu foco é criar métricas e visualizações que não só transmitam insights claros, mas também orientem ações para as demais equipes. 
 
-Por onde passo, tenho o compromisso de compartilhar meu conhecimento em dados para aprimorar os processos de trabalho e otimizá-los. Trabalhei em projetos de análise de dados em diversas áreas, incluindo indústria da música, recursos humanos, atendimento ao cliente, sucesso do cliente, produtos, financeiro, estratégia e planejamento.
+Sou conhecida pela minha habilidade de me comunicar de forma clara, eficiente e por fazer apresentações didáticas que facilitam a compreensão de temas que podem ser complexo para os usuários. 
 
-Estou sempre em busca de novos desafios que me permitam adquirir novas perspectivas e aprimorar minhas técnicas e habilidades sociais no ambiente de trabalho.
+Tenho experiência em diversos projetos, desde a análise de dados de Operações, Customer Success, Planejamento, Financeiro, People Analytics e outros. 
 
-Vamos conectar e explorar maneiras de impulsionar a eficiência e a eficácia por meio da análise de dados! 🚀🎲🔍
+Trabalho em projeto desde a definição das métricas, modelagem das tabelas, qualidade e governança de dados, validação dos processos de trabalho até a etapa de visualização. 
 
-#DataAnalysis #DataViz #DataScience #ComunicaçãoDeDados
+Além disso, sou uma incentivadora de um ambiente de trabalho colaborativo e positivo, promovendo rituais que fortalecem a cultura da empresa. E claro,tudo isso levando bom humor para termos tempos de qualidade no trabalho. 
+
+#Databricks #dbt #Looker #SQL #Looker #Python #PowerBI
+
+Vamos tomar um cafézinho?
+
 
 ### 👩🏼‍💻**Onde me encontrar**:
  🎲 [Conteúdos criados por mim](https://github.com/beatrizmaiads/contents-created-by-me)
