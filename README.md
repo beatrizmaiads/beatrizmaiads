@@ -23,7 +23,7 @@ Além disso, sou uma incentivadora de um ambiente de trabalho colaborativo e pos
 Vamos tomar um cafézinho?
 
 
-### 👩🏼‍💻**Onde me encontrar**:
+### 👩🏼‍💻 **Onde me encontrar**:
  🎲 [Conteúdos criados por mim](https://github.com/beatrizmaiads/contents-created-by-me)
 
  🎲 [LinkedIn](https://www.linkedin.com/in/beatrizmaiads/)  
